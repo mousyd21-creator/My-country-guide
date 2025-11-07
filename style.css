@@ -3,6 +3,14 @@ body{
     background-color: #E3E8EE;
     margin: 0;
 }
+#preloader{
+  width: 100%;
+  height: 100%;
+  background: #000014 url(The-Best-50-Website-Preloaders-Around-the-Web-Example-35.gif) no-repeat center;
+  position: fixed;
+  z-index: 100;
+  
+}
 /* css for index */
 .welcome{
     display: flex;
